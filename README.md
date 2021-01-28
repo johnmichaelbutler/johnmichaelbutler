@@ -1,4 +1,5 @@
-### Hi! I'm John Michael Butler, a Web Developer Based in South Texas 
+### Hi! I'm John Butler, an AWS Cloud Developer and Solutions Architect based in South Texas. 
+
 
 <!--
 **johnmichaelbutler/johnmichaelbutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
