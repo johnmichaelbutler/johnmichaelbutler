@@ -19,7 +19,7 @@ CoffeeService is an online order app for a coffee shop. It utilizes AWS Serverle
 
 Other AWS apps that I have worked on is Distinctive Designs. Distinctive Designs is a website for a local architectural business. The app is built using Next.js and is hosted as a static website on Amazon S3. The contact form for the website is built using serverless technologies. The contact form sends the request to an API Gateway endpoint. The endpoint invokes a lambda function which utilizes AWS Simple Email Service (SES) to send an email to the managers of the local business. 
 
-My portfolio website, johnbutler.dev[johnbutler.dev], is built using Next.js and is hosted as a static website on Amazon S3. A CloudFront distribution is used as a CDN for the site and is used to provide TLS/SSL protection.
+My portfolio website, https://johnbutler.dev, is built using Next.js and is hosted as a static website on Amazon S3. A CloudFront distribution is used as a CDN for the site and is used to provide TLS/SSL protection.
 
 I am currently looking for a position as a Cloud Developer! So if you're looking for a passionate and quick learning developer to add to your team, I'm ready!
 
