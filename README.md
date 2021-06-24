@@ -10,6 +10,8 @@ I love building serverless apps using a Microservices event-driven architecture.
 
 My current goal is to take the AWS DevOps Professional exam in the next few months!
 
+I also have a small blog where I write about AWS topics. I was excited that one of my articles was featured as a top article on Hashnode.com! My blog can be found at: https://blog.johnbutler.dev.
+
 # Current Project
 My current project I am working on is CoffeeService. 
 
