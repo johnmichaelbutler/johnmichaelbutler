@@ -10,10 +10,12 @@ I love building serverless apps using a Microservices event-driven architecture.
 
 My current goal is to take the AWS DevOps Professional exam in the next few months!
 
-# Current Projects
+# Current Project
 My current project I am working on is CoffeeService. 
 
 CoffeeService is an online order app for a coffee shop. It utilizes AWS Serverless technologies all the way! It will be composed of three TypeScript Microservices and a frontend Next.js client. Each microservice communicates with the others using AWS EventBridge and is built using AWS SAM Framework. Each service utilizes AWS Lambda, DynamoDB, and API Gateway. Secrets are stored on Systems Manager. An SQS queue will be utilized for administrator to see incoming orders and fulfill them. For full details, check out the GitHub repo below!
+
+## Other AWS Projects
 
 Other AWS apps that I have worked on is Distinctive Designs. Distinctive Designs is a website for a local architectural business. The app is built using Next.js and is hosted as a static website on Amazon S3. The contact form for the website is built using serverless technologies. The contact form sends the request to an API Gateway endpoint. The endpoint invokes a lambda function which utilizes AWS Simple Email Service (SES) to send an email to the managers of the local business. 
 
